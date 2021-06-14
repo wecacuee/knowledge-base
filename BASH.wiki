@@ -1,0 +1,4 @@
+* How to learn BASH
+  + You might need to learn about [[./LINUX.wiki][linux]]
+  + https://missing.csail.mit.edu/2020/course-shell/
+  + Read the manual: https://www.gnu.org/software/bash/manual/bash.html

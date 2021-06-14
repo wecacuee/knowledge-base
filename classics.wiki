@@ -1,0 +1,20 @@
+Bayes 
+https://royalsocietypublishing.org/doi/pdf/10.1098/rstl.1763.0053
+
+Shanon
+http://www.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf
+
+Turing 1936
+https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
+
+Kalman 1960
+http://www.cs.unc.edu/~welch/kalman/media/pdf/Kalman1960.pdf
+
+
+Liapunov's theory and controlls
+https://www.sciencedirect.com/science/article/pii/B9780444508713501327
+https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.910.9566&rep=rep1&type=pdf
+https://archive.org/details/StabilityByLiapunovsDirectMethod/page/n83/mode/2up
+
+LeCun 1998
+http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf

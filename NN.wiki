@@ -1,0 +1,2 @@
+Practical advice for training a NN:
+http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf

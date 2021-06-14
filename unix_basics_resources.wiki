@@ -1,0 +1,6 @@
+* Unix basics
+  https://kb.iu.edu/d/afsk
+  https://missing.csail.mit.edu/2020/course-shell/
+
+* Unix Permissions:
+https://kb.iu.edu/d/abdb

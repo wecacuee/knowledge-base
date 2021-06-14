@@ -1,0 +1,5 @@
+* How to learn GIT
+  + You might need to learn about [[./SSH.wiki][ssh]], [[./BASH.wiki][bash]] and [[./LINUX.wiki][linux]]
+  + https://missing.csail.mit.edu/2020/course-shell/
+  + https://docs.github.com/en/github/getting-started-with-github/quickstart/set-up-git
+  + Read the manual: https://missing.csail.mit.edu/2020/course-shell/
